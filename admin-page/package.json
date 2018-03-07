@@ -1,0 +1,14 @@
+{
+  "name": "admin-page",
+  "version": "0.0.0",
+  "description": "admin-page",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "Work"
+  }
+}
